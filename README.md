@@ -1,7 +1,6 @@
 # GoCraft
 
 ![Go Version](https://img.shields.io/badge/Go-1.25%2B-00ADD8?logo=go&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 **GoCraft** is a developer-focused CLI toolkit for Go. Inspect your Go environment, check ports, monitor active network ports, and scaffold new Go projects, all from one small binary.
@@ -203,7 +202,3 @@ GoCraft v1 is a small, useful developer CLI. It includes:
 ## Contributing
 
 Contributions, ideas, and suggestions are welcome. Found a bug or have a feature idea? Open an issue or submit a pull request.
-
-## License
-
-MIT License. Copyright (c) 2026 Asmit.
